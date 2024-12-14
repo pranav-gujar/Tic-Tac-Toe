@@ -1,10 +1,8 @@
-# Task of Web Development Internship at Prodigy Infotech.
-
 # Tic-Tac-Toe Game
 
 ## Overview
 
-I am thrilled to announce that I have successfully developed a Tic-Tac-Toe game using HTML5, CSS3, and JavaScript. This marks the completion of my 3rd task in the web development internship at Prodigy Infotech.
+I am thrilled to announce that I have successfully developed a Tic-Tac-Toe game using HTML5, CSS3, and JavaScript.
 
 Working on this project has been an enjoyable and educational experience, allowing me to apply my skills in a fun and interactive way and create a classic game that users of all ages can enjoy!
 
@@ -27,10 +25,12 @@ Working on this project has been an enjoyable and educational experience, allowi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pranav-gujar/PRODIGY_WD_03
+    git clone https://github.com/pranav-gujar/Tic-Tac-Toe.git
     ```
 2. Navigate to the project directory.
-
+   ```bash
+    cd Tic-Tac-Toe
+    ```
 
 3. Open `index.html` in your web browser to play the game.
 
@@ -40,5 +40,3 @@ Working on this project has been an enjoyable and educational experience, allowi
 2. Players take turns clicking on the game board to mark their moves.
 3. The game will automatically detect and highlight the winning combination or declare a draw if no moves are left.
 4. Click the reset button to start a new game at any time.
-
-- Thanks to Prodigy Infotech for providing the opportunity to work on this project during my web development internship.
